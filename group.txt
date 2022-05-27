@@ -1,0 +1,12 @@
+2022. 05. 03. (화) 11:03:25 KST
+/home/osw2019053154/osw
+group.txt
+hlist.txt
+list.txt
+newalarm
+newalarm.c
+TA
+wait
+wait.c
+week02_test
+week02_test.c

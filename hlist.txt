@@ -1,0 +1,37 @@
+    1  passwd
+    2  ls
+    3  mkdir osw
+    4  l
+    5  ls
+    6  cd osw
+    7  pwd
+    8  nano week02_test.c
+    9  gcc -o week02_test week02_test.c
+   10  nano week02_test.c
+   11  gcc -o week02_test week02_test.c
+   12  ./week02_test
+   13  ls
+   14  cd osw
+   15  ls
+   16  cd week02_test.c
+   17  cat week02_test.c
+   18  nano week02_test.c
+   19  ls
+   20  ls -a
+   21  ls -s
+   22  ls -l
+   23  pwd
+   24  ls -asl
+   25  cd osw
+   26  pwd
+   27  cd ..
+   28  ls
+   29  cd osw
+   30  type cd
+   31  man ls
+   32  which cd
+   33  which bash
+   34  which gcc
+   35  history
+   36  pwd
+   37  history > hlist.txt
